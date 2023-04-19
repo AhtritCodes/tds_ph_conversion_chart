@@ -4,6 +4,7 @@
   "description": "creating bg api for ph values",
   "main": "api.js",
   "scripts": {
+    "start": "node api.js",
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon api.js"
   },
