@@ -1,14 +1,4 @@
-Temperature,Microbe Type,Microbes
--2-20,Psychrophiles,Psychromonas ingrahamii
--2-20,Psychrophiles,Moritella marina
--2-20,Psychrophiles,Colwellia psychrerythraea
-0-15,Psychrophiles,Shewanella benthica
--1-15,Psychrophiles,Flavobacterium frigidimaris
--1-10,Psychrophiles,Oleispira antarctica
--2-15,Psychrophiles,Polaribacter irgensii
--1-18,Psychrophiles,Glaciecola punicea
--1-10,Psychrophiles,Aliivibrio logei
--2-20,Psychrophiles,Psychroflexus torquis
+Temperature,MicrobeType,Microbes
 70-75,Thermophiles,Thermus aquaticus
 90-103,Thermophiles,Pyrococcus furiosus
 55-75,Thermophiles,Geobacillus stearothermophilus
@@ -19,28 +9,22 @@ Temperature,Microbe Type,Microbes
 65-85,Thermophiles,Thermus thermophilus
 70-95,Thermophiles,Aquifex aeolicus
 65-97,Thermophiles,Methanothermococcus thermolithotrophicus
-20-45,Mesophiles,Escherichia coli
-20-45,Mesophiles,Bacillus subtilis
-20-45,Mesophiles,Staphylococcus aureus
-20-42,Mesophiles,Pseudomonas aeruginosa
-20-40,Mesophiles,Streptococcus pyogenes
-20-40,Mesophiles,Lactobacillus plantarum
-20-45,Mesophiles,Clostridium perfringens
-10-45,Mesophiles,Enterococcus faecalis
-0-45,Mesophiles,Listeria monocytogenes
-10-40,Mesophiles,Vibrio cholerae
-20-45,Mesophiles,Staphylococcus aureus
-20-45,Mesophiles,Escherichia coli
-20-40,Mesophiles,Streptococcus pneumoniae
-20-40,Mesophiles,Streptococcus pyogens
-30-35,Mesophiles,Haemophilus influenzae
 90-113,Hyperthermophiles,Pyrolobus fumarii
 80-100,Hyperthermophiles,Thermococcus litoralis
-80-100,Hyperthermophiles,Pyrococcus horikoshii
-84-110,Hyperthermophiles,Methanopyrus kandleri
-90-106,Hyperthermophiles,Pyrodictium occultum
-75-100,Hyperthermophiles,Aeropyrum pernix
-90-106,Hyperthermophiles,Pyrolobus boshukonii
-65-92,Hyperthermophiles,Methanocaldococcus jannaschii
-70-90,Hyperthermophiles,Thermofilum pendens
-60-90,Hyperthermophiles,Methanocaldococcus bathoardescens
+0-7,Psychrotrophic,Lactococcus
+-20-20,Psychrophiles,Polaromonas
+20-45,Mesophiles,Moritella 
+20-45,Mesophiles,Streptococcus pyogenes
+25-60,Thermophiles,Clostridium paradoxum
+55-65,Thermophiles,Bacillus
+50-85,Thermophiles,Sulfurovum
+20-45,Mesophiles,Listeria monocytogenes
+15-45,Mesophiles,Staphylococcus aureus
+10-50,Mesophiles,Escherichia coli
+25-40,Mesophiles,Clostridium kluyveri
+20-40,Mesophiles,Pseudomonas maltophilia
+10-35,Mesophiles,Thiobacillus novellus
+10-40,Mesophiles,Streptococcus pneumoniae
+80-115,Hyperthermophiles,Thermotogales
+80-116,Hyperthermophiles,Aquificales
+108-110,Extremophiles,Hyperthermus butylicus
