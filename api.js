@@ -38,7 +38,7 @@ fs.createReadStream('Microbes_pH.csv')
 // Read CSV file of temp and store its contents in an array
 const results_temp = [];
 
-fs.createReadStream('Microbes_temperature.csv')
+fs.createReadStream('MicrobialGrowth-temp-Data.csv')
 .pipe(csvParser())
 .on('data', (rows) => {
 	results_temp.push(rows);

@@ -1,0 +1,30 @@
+Temperature (ºC),MicrobeType,Microbes
+70-75,Thermophiles,Thermus aquaticus
+90-103,Thermophiles,Pyrococcus furiosus
+55-75,Thermophiles,Geobacillus stearothermophilus
+75-85,Thermophiles,Sulfolobus acidocaldarius
+55-70,Thermophiles,Bacillus caldolyticus
+80-90,Thermophiles,Thermotoga maritima
+70-80,Thermophiles,Caldicellulosiruptor saccharolyticus
+65-85,Thermophiles,Thermus thermophilus
+70-95,Thermophiles,Aquifex aeolicus
+65-97,Thermophiles,Methanothermococcus thermolithotrophicus
+90-113,Hyperthermophiles,Pyrolobus fumarii
+80-100,Hyperthermophiles,Thermococcus litoralis
+0-7,Psychrotrophic,Lactococcus
+-20-20,Psychrophiles,Polaromonas
+20-45,Mesophiles,Moritella 
+20-45,Mesophiles,Streptococcus pyogenes
+25-60,Thermophiles,Clostridium paradoxum
+55-65,Thermophiles,Bacillus
+50-85,Thermophiles,Sulfurovum
+20-45,Mesophiles,Listeria monocytogenes
+15-45,Mesophiles,Staphylococcus aureus
+10-50,Mesophiles,Escherichia coli
+25-40,Mesophiles,Clostridium kluyveri
+20-40,Mesophiles,Pseudomonas maltophilia
+10-35,Mesophiles,Thiobacillus novellus
+10-40,Mesophiles,Streptococcus pneumoniae
+80-115,Hyperthermophiles,Thermotogales
+80-116,Hyperthermophiles,Aquificales
+108-110,Extremophiles,Hyperthermus butylicus
